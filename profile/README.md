@@ -2,11 +2,6 @@
 
 ## 📌 Deskripsi
 Repository ini dibuat untuk menampung project mata kuliah **Pengelolaan Proyek Sistem Informasi**.  
-Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pembagian kelompok.  
-
-## 🗂️ Struktur Repo
-- **main branch** → Dokumentasi umum kelas & daftar kelompok.  
-- **branch kelompok** → Berisi project masing-masing kelompok.  
 
 ## 👥 Daftar Kelompok
 ### Kelompok 1
@@ -26,7 +21,7 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 | ⁠Rizki Putra | 11122295 |
 | Muhammad Dennis | 10122876 |
 
-### [Kelompok 3](https://github.com/aditdit11/4KA23-PTA2526/tree/Kelompok-3)
+### Kelompok 3
 | Nama | NPM |
 |------|--------------|
 | [Desta Aldi Fachri Wibowo](https://github.com/sickpeoples) | 10122355 |
@@ -51,10 +46,6 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 | ⁠Peter Daniel Jeremy | 11122517 |
 | Raden Cahya Kartika | 11122130 |
 | Aqilla Baidhar Putra | 10122202 |  
-
-## 🚀 Cara Akses Project
-1. Pilih branch sesuai kelompok di tab **branches**.  
-2. Buka README.md di branch tersebut untuk melihat detail project kelompok.  
 
 ---
 
