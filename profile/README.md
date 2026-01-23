@@ -21,7 +21,7 @@ Repository ini dibuat untuk menampung project mata kuliah **Pengelolaan Proyek S
 | ⁠Rizki Putra | 11122295 |
 | Muhammad Dennis | 10122876 |
 
-### Kelompok 3
+### [Kelompok 3](https://github.com/PPSI-4KA23-PTA-2526/Kelompok-3)
 | Nama | NPM |
 |------|--------------|
 | [Desta Aldi Fachri Wibowo](https://github.com/sickpeoples) | 10122355 |
